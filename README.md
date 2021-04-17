@@ -4,4 +4,4 @@ Display a current weather and temperature at your location using [openweathermap
 
 ## Update Location
 
-You could change a location to your prefer location by changing the `city` variable from `script.js`. The default value of the city is `Minnsota`.
+You could change a location to your prefer location by changing the `city` variable from `script.js`. The default value of the city is `Minnesota`.
